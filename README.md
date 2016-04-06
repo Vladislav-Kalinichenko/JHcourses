@@ -1,2 +1,0 @@
-# JHcourses
-Coursera
